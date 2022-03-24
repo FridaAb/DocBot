@@ -1,0 +1,5 @@
+docbot:
+  name: MyMSK_bot
+  apiKey: 5122862539:AAGB9eo4k6PpaPwyFFjok0JgJ5PJYlmNm7s
+  publicdir: /Users/fridaabarca/Documents/road.jpeg
+  function: Bot for doc sharing
